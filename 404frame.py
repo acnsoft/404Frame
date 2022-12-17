@@ -1,3 +1,8 @@
+#Created by AcnSoft - Arda Çalışkan
+#github.com/acnsoft
+#instagram.com/acnsoft
+
+
 import socket
 from api.telamonapi import *
 from api.sqllookerapi import *
