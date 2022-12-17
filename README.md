@@ -30,7 +30,7 @@
 
 ### `sets`
 
-*The “sets” command will show you the target site – the port(s) you specified and other values ​​you entered. If you entered it incorrectly, you do not need to search.
+* The “sets” command will show you the target site – the port(s) you specified and other values ​​you entered. If you entered it incorrectly, you do not need to search.
 
 
 Created by AcnSoft
