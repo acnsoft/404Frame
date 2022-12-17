@@ -33,6 +33,10 @@
 * The “sets” command will show you the target site – the port(s) you specified and other values ​​you entered. If you entered it incorrectly, you do not need to search.
 
 
+Disclaimer
+People who use this tool are not our responsibility. Illegal actions are the sole responsibility of the user .Developers assume no liability and are not responsible for any misuse or damage caused by this program. If you use this tool, you accept automatic readme.md.
+
+
 
 Created by AcnSoft
 
