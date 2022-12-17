@@ -12,25 +12,26 @@
 
 * “help” / “commands” commands shows all commands and shows how their purpose.
 
-### set target
+### `set target`
 
-*
+* The “set target” command is a command that should be used independently of any attack. You introduce the target site to the system.
 
-### set port
+### `set port`
 
-*
+* The port(s) you want to be scanned while the “set port” command is doing a port scan
 
-### port scan
+### `port scan`
 
-*
+* The “port scan” command checks the site you specified and whether the port(s) are open or closed.
 
-### scan sql
+### `scan sql`
 
-*
+* The “scan sql” command will display all the results you have entered on the page that may have sql vulnerabilities.
 
-### sets
+### `sets`
 
-*
+*The “sets” command will show you the target site – the port(s) you specified and other values ​​you entered. If you entered it incorrectly, you do not need to search.
+
 
 Created by AcnSoft
 ©️ 2022 AcnSoft. All rights reserved.
