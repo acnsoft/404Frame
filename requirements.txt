@@ -1,0 +1,6 @@
+socket
+requests
+colorama
+urllib
+pandas
+requests-html
