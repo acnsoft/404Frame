@@ -1,10 +1,6 @@
-#Created by AcnSoft - Arda Çalışkan
-#github.com/acnsoft
-#instagram.com/acnsoft
-
-
 import socket
 from api.telamonapi import *
+import os
 from api.sqllookerapi import *
 
 COLORS = {\
@@ -76,6 +72,10 @@ helpmenu = """
         ©️ 2022 AcnSoft. All rights reserved.
         """
 
+def clear():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+
 while True:
     name = socket.gethostname()
     
@@ -87,6 +87,9 @@ while True:
     if x == "help" or x == "menu" or  x == "help menu" or  x == "commands" or  x == "commands menu":
     
         print(helpmenu)
+    
+    if x == "cls" or x == "clear":
+        clear()
 
     if x == "set port":
         setportilnr = int(input(redd))
@@ -105,10 +108,13 @@ while True:
         
         setts = colorText(settings)
         print(setts)
+
     
 
     if x == "scan port":
         portscann()
+
+
 
     #sqllooker
 
